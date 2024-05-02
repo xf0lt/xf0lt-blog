@@ -13,6 +13,11 @@ minify:
   minifyOutput: true
 
 params:
+
+  cover:
+    linkFullImages: false
+    responsiveImages: true
+
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: ExampleSite
   description: "ExampleSite description"
@@ -50,7 +55,7 @@ params:
     safari_pinned_tab: "<link / abs url>"
 
   label:
-    text: "xf0lt"
+    text: "xf0lt-blog"
     icon: /apple-touch-icon.png
     iconHeight: 35
 
