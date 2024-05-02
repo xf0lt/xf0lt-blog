@@ -1,4 +1,4 @@
-baseURL: "xf0lt-blog.pages.dev"
+baseURL: "https://xf0lt-blog.pages.dev"
 title: xf0lt
 paginate: 5
 theme: PaperMod
