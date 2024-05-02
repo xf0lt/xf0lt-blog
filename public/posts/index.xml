@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>xf0lt</title>
-    <link>//localhost:1313/</link>
-    <description>Recent content on xf0lt</description>
+    <title>Posts on xf0lt</title>
+    <link>//localhost:1313/posts/</link>
+    <description>Recent content in Posts on xf0lt</description>
     <image>
       <title>xf0lt</title>
       <url>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
@@ -12,13 +12,13 @@
     <generator>Hugo -- 0.123.7</generator>
     <language>en</language>
     <lastBuildDate>Thu, 02 May 2024 18:03:03 +0700</lastBuildDate>
-    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tester6</title>
       <link>//localhost:1313/posts/tester6/</link>
       <pubDate>Thu, 02 May 2024 18:03:03 +0700</pubDate>
       <guid>//localhost:1313/posts/tester6/</guid>
-      <description>hello world hweheheh ahf af </description>
+      <description></description>
     </item>
     <item>
       <title>Tester5</title>

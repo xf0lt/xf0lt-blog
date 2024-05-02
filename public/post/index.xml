@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on ExampleSite</title>
-    <link>http://localhost:1313/post/</link>
-    <description>Recent content in Posts on ExampleSite</description>
+    <title>Posts on xf0lt</title>
+    <link>//localhost:1313/post/</link>
+    <description>Recent content in Posts on xf0lt</description>
     <image>
-      <title>ExampleSite</title>
-      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <title>xf0lt</title>
+      <url>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.123.7</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 02 May 2024 16:27:43 +0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 May 2024 17:48:28 +0700</lastBuildDate>
+    <atom:link href="//localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hello World</title>
-      <link>http://localhost:1313/post/hello-world/</link>
-      <pubDate>Thu, 02 May 2024 16:27:43 +0700</pubDate>
-      <guid>http://localhost:1313/post/hello-world/</guid>
-      <description></description>
+      <title>First</title>
+      <link>//localhost:1313/post/first/</link>
+      <pubDate>Thu, 02 May 2024 17:48:28 +0700</pubDate>
+      <guid>//localhost:1313/post/first/</guid>
+      <description>hallo, this is first post</description>
     </item>
   </channel>
 </rss>
