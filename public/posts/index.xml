@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on xf0lt</title>
-    <link>//localhost:1313/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on xf0lt</description>
     <image>
       <title>xf0lt</title>
-      <url>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.123.7</generator>
     <language>en</language>
     <lastBuildDate>Thu, 02 May 2024 18:03:03 +0700</lastBuildDate>
-    <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Tester6</title>
-      <link>//localhost:1313/posts/tester6/</link>
+      <title>Driftingblues3 - VULNHHUB</title>
+      <link>http://localhost:1313/posts/heheh/</link>
       <pubDate>Thu, 02 May 2024 18:03:03 +0700</pubDate>
-      <guid>//localhost:1313/posts/tester6/</guid>
-      <description> hello world hweheheh ahf af </description>
+      <guid>http://localhost:1313/posts/heheh/</guid>
+      <description>DISCLAIMER Any actions and or activities related to the material contained within this Website is solely your responsibility. This site contains materials that can be potentially damaging or dangerous. If you do not fully understand something on this site, then GO OUT OF HERE! Refer to the laws in your province/country before accessing, using, or in any other way utilizing these materials.These materials are for educational and research purposes only.</description>
     </item>
     <item>
       <title>Tester5</title>
-      <link>//localhost:1313/posts/tester5/</link>
+      <link>http://localhost:1313/posts/tester5/</link>
       <pubDate>Thu, 02 May 2024 18:03:00 +0700</pubDate>
-      <guid>//localhost:1313/posts/tester5/</guid>
+      <guid>http://localhost:1313/posts/tester5/</guid>
       <description></description>
     </item>
     <item>
       <title>Tester4</title>
-      <link>//localhost:1313/posts/tester4/</link>
+      <link>http://localhost:1313/posts/tester4/</link>
       <pubDate>Thu, 02 May 2024 18:02:54 +0700</pubDate>
-      <guid>//localhost:1313/posts/tester4/</guid>
+      <guid>http://localhost:1313/posts/tester4/</guid>
       <description></description>
     </item>
     <item>
       <title>Tester3</title>
-      <link>//localhost:1313/posts/tester3/</link>
+      <link>http://localhost:1313/posts/tester3/</link>
       <pubDate>Thu, 02 May 2024 18:02:50 +0700</pubDate>
-      <guid>//localhost:1313/posts/tester3/</guid>
+      <guid>http://localhost:1313/posts/tester3/</guid>
       <description></description>
     </item>
     <item>
       <title>Tester2</title>
-      <link>//localhost:1313/posts/tester2/</link>
+      <link>http://localhost:1313/posts/tester2/</link>
       <pubDate>Thu, 02 May 2024 18:02:46 +0700</pubDate>
-      <guid>//localhost:1313/posts/tester2/</guid>
+      <guid>http://localhost:1313/posts/tester2/</guid>
       <description></description>
     </item>
     <item>
       <title>Tester</title>
-      <link>//localhost:1313/posts/tester/</link>
+      <link>http://localhost:1313/posts/tester/</link>
       <pubDate>Thu, 02 May 2024 18:01:52 +0700</pubDate>
-      <guid>//localhost:1313/posts/tester/</guid>
+      <guid>http://localhost:1313/posts/tester/</guid>
       <description></description>
     </item>
   </channel>
